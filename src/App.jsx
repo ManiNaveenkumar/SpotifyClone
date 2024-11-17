@@ -9,7 +9,8 @@ function App() {
       
         <Sidebar/>
         <Display/>
-      </div><Player/>
+      </div>
+      <Player/>
     </div>
   )
 }
