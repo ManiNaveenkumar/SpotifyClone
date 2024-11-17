@@ -1,7 +1,7 @@
 import React from 'react'
-import Sidebar from './components/Sidebar'
-import Player from './components/player'
-import Display from './components/Display'
+import Sidebar from '../components/Sidebar'
+import Player from '../components/player'
+import Display from '../components/Display'
 function App() {
   return (
    <div className='h-screen bg-black'>
